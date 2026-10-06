@@ -4,3 +4,6 @@ card = input("Enter your card type and number: ")
 
 print(get_mask_card_number(card))
 print(get_mask_account(card))
+
+def ii(x):
+    return x*2
